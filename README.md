@@ -1,4 +1,4 @@
-minesweeper
+CS1010E - minesweeper
 ===========
 
-Minesweeper game I built on C after taking a course on introductory programming
+Minesweeper game built on C after taking an introductory programming course
